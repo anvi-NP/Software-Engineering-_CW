@@ -7,11 +7,10 @@ Author:-Aasutosh Kumar Verma
 1. Introduction
 This assignment contributes 35% to the overall mark for this module.
 <br>
-3. Specification
+2. Specification
+   <br>
 McGregor Institute of Botanical Training is Ireland based training institute located
-
 at Godawari, Lalitpur. It has been almost 7 years since they have been operating
-
 in Nepal. It provides different undergraduate and postgraduate courses
 specializing in agriculture along with horticulture specializations and is affiliated to
 Dublin City University. Recently, with the sudden surge in the number of people
@@ -23,3 +22,29 @@ want to build a community of individuals with interests in plants and want to cr
 a platform(forum) where the plant enthusiasts can discuss their ideas, organize
 programs to protect rare plants and forests. The forum can also prove to be a
 platform where people can post their queries to be answered by the experts.
+
+1. Detailed Specification
+   <br>
+The proposed system is to have following functions
+<br>
+1. Register in the system.<br>
+Any new user should be registered in the system to use the features in the
+system.
+<br>
+3. Join the program.<br>
+Anyone interested can join the program. i.e graduate or postgraduate or
+certificate oriented short courses. Courses are both paid and unpaid.
+<br>
+4. Purchase plants<br>
+The provision for users to view varieties of plants and purchase if interested.
+<br>
+6. Payment<br>
+There should be a provision for the customer to pay and for the plant
+purchased and the course they are enrolled in. Data of the payment should
+be stored.
+<br>
+8. Ask for recommendations.<br>
+The provision to ask for recommendations with experts. Users pinpoint their
+site location in the map, if possible, soil condition images and experts reply
+with the suitable plants/crops that can be planted in that particular location.
+<br>
