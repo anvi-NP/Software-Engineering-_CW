@@ -23,28 +23,33 @@ a platform(forum) where the plant enthusiasts can discuss their ideas, organize
 programs to protect rare plants and forests. The forum can also prove to be a
 platform where people can post their queries to be answered by the experts.
 
-1. Detailed Specification
+3. Detailed Specification
    <br>
 The proposed system is to have following functions
 <br>
-1. Register in the system.<br>
+1. Register in the system.
 Any new user should be registered in the system to use the features in the
 system.
 <br>
-3. Join the program.<br>
+
+2. Join the program.
 Anyone interested can join the program. i.e graduate or postgraduate or
 certificate oriented short courses. Courses are both paid and unpaid.
 <br>
-4. Purchase plants<br>
+
+3. Purchase plants
 The provision for users to view varieties of plants and purchase if interested.
 <br>
-6. Payment
+
+4. Payment
 There should be a provision for the customer to pay and for the plant
 purchased and the course they are enrolled in. Data of the payment should
 be stored.
 <br>
-8. Ask for recommendations.<br>
+
+5. Ask for recommendations.
 The provision to ask for recommendations with experts. Users pinpoint their
 site location in the map, if possible, soil condition images and experts reply
 with the suitable plants/crops that can be planted in that particular location.
 <br>
+
