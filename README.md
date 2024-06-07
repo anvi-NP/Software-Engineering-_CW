@@ -27,6 +27,7 @@ platform where people can post their queries to be answered by the experts.
    <br>
 The proposed system is to have following functions
 <br>
+
 1. Register in the system.
 Any new user should be registered in the system to use the features in the
 system.
@@ -52,4 +53,16 @@ The provision to ask for recommendations with experts. Users pinpoint their
 site location in the map, if possible, soil condition images and experts reply
 with the suitable plants/crops that can be planted in that particular location.
 <br>
+
+6. Report preparation.
+The facility for the admin to prepare a detailed financial report, employees
+report and report related to every user.
+
+8. Take certification exams.
+Users can take mock tests as per their convenience, check results and also
+give certification exams after fulfilling certain prerequisites.
+
+10. Forum
+Users can engage in conversations about plants, sharing their opinions
+through posts. They can also comment on and upvote others' opinions.
 
