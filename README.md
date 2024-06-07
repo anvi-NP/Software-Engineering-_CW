@@ -38,7 +38,7 @@ certificate oriented short courses. Courses are both paid and unpaid.
 4. Purchase plants<br>
 The provision for users to view varieties of plants and purchase if interested.
 <br>
-6. Payment<br>
+6. Payment
 There should be a provision for the customer to pay and for the plant
 purchased and the course they are enrolled in. Data of the payment should
 be stored.
