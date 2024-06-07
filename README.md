@@ -66,3 +66,55 @@ give certification exams after fulfilling certain prerequisites.
 Users can engage in conversations about plants, sharing their opinions
 through posts. They can also comment on and upvote others' opinions.
 
+Planning, requirements modeling and analysis (65%)
+1. Prepare a Work Breakdown Structure demonstrating the possible scope of
+the proposed system. And prepare a Gantt Chart indicating how you might
+schedule the work of developing the system. But please ensure that the
+Gantt chart is based upon a methodology of your choice and the
+activities/tasks should be relevant to the methodology chosen.
+
+2. Produce a Use Case Model for the required system – including a Use Case
+diagram, and High-Level Use Case Descriptions for each Use Case. For
+two of the Use Cases of your choice, produce Expanded Use Case
+Descriptions.
+
+Choose one of these expanded Use Case Descriptions to model both the
+Collaboration and Sequence diagram, in 3, below.
+
+4. Explain in words how you would go about producing the Communication
+diagrams, that is a Collaboration diagram and a Sequence diagram, from
+the Use Case model.
+
+Produce a Collaboration diagram and then produce a Sequence diagram
+for the same Use Case.
+
+5. Prepare a table comprising all possible domain classes from all the
+respective use cases. Produce an Analysis Class diagram showing the
+domain classes. 
+
+Design (35%)
+
+1. You have done several tasks till date (analysis and design diagrams have
+been done). Now how do you plan to move further in the process of
+completing the project? You are required to select a methodology that you
+think is feasible for this project and your explanation of further planning
+should be relatable to the methodology that you have chosen.
+
+(Note: the further planning should compulsorily include following
+things:
+
+1) Architectural choice.
+2) Design Pattern.
+3) Development Plan (that includes tools/resources/programming
+platforms that are going to be used and priority order of
+artifacts/features that you have planned tentatively.
+4) Testing Plan.
+5) Maintenance Plan.
+   
+2. Develop some design prototypes for the proposed system for features
+which are listed in detailed specification.
+
+(Note: the prototypes should cover the major features and at least 15
+separate prototypes need to be shown.)
+
+
